@@ -1,0 +1,6 @@
+[project]
+name = "xgb-benchmark"
+description = "XGBoost benchmark vs Rust"
+version = "0.1.0"
+
+dependencies = ["xgboost>=3.0.2", "numpy>=2.3.1", "tqdm>=4.67.1"]
